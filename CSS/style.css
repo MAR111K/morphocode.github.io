@@ -351,6 +351,7 @@ section {
 }
 
 @media screen and (max-width:700px) {
+    .header__navigation{display: none;}
     .logo__page1 {
         display: none;
     }
